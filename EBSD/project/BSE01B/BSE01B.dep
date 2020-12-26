@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>4</fileVersion>
+    <fileChecksum>743212720</fileChecksum>
+    <configuration>
+        <name>Debug</name>
+        <outputs>
+            <file>$PROJ_DIR$\..\..\src\Hook\BSE01BHook\BSE01BType.h</file>
+            <file>$PROJ_DIR$\..\..\include\EBGlobal.h</file>
+            <file>$TOOLKIT_DIR$\lib\rt6M_tl.a</file>
+            <file>$PROJ_DIR$\..\..\include\MP_OS_type.h</file>
+            <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+            <file>$PROJ_DIR$\Debug\Obj\BSE01BHook.o</file>
+            <file>$PROJ_DIR$\..\..\include\MP_EB_Type.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\BSE01B.pbd</file>
+            <file>$PROJ_DIR$\..\..\MT_ColorBrickV1.0.icf</file>
+            <file>$PROJ_DIR$\Debug\Obj\BSE01BHook.pbi</file>
+            <file>$PROJ_DIR$\..\..\include\MP_OS.h</file>
+            <file>$PROJ_DIR$\..\..\..\LWS17\project\LWS429lib\output\debug\Exe\LWS429Lib.a</file>
+            <file>$PROJ_DIR$\..\..\src\Hook\BSE01BHook\BSE01BHook.c</file>
+            <file>$PROJ_DIR$\Debug\Exe\T&amp;H.hex</file>
+            <file>$PROJ_DIR$\..\..\src\Sensor\DS18B20\DS18B20.c</file>
+            <file>$PROJ_DIR$\BSE01BHook\BSE01BHook.c</file>
+            <file>$PROJ_DIR$\..\..\include\MP_BASE_Type.h</file>
+            <file>$PROJ_DIR$\..\..\include\MP_Global.h</file>
+            <file>$PROJ_DIR$\..\..\src\Sensor\DS18B20\DS18B20.h</file>
+            <file>$PROJ_DIR$\BSE01BHook\BSE01BHook.h</file>
+            <file>$PROJ_DIR$\..\..\src\Hook\BSE01BHook\BSE01BHook.h</file>
+            <file>$PROJ_DIR$\..\..\include\APP\CrcCal.h</file>
+            <file>$PROJ_DIR$\Debug\List\T&amp;H.map</file>
+            <file>$PROJ_DIR$\Debug\Exe\T&amp;H.out</file>
+            <file>$PROJ_DIR$\Debug\Obj\BSE01BHook.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\include\MP_LWS_Type.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\DS18B20.pbi</file>
+            <file>$TOOLKIT_DIR$\lib\m6M_tl.a</file>
+            <file>$PROJ_DIR$\..\..\include\APP\AppConst.h</file>
+            <file>$TOOLKIT_DIR$\lib\dl6M_tln.a</file>
+            <file>$PROJ_DIR$\BSE01BType.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\DS18B20.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\DS18B20.o</file>
+            <file>$PROJ_DIR$\..\..\..\EdgeBus\project\EBLib\Debug\Exe\EBLib.a</file>
+        </outputs>
+        <file>
+            <name>$PROJ_DIR$\..\..\src\Hook\BSE01BHook\BSE01BHook.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 5</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 9</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 24</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 20 1 28 16 3 25 10 6 21 17 0 18</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 25 0 16 6 21 17 1 18 20 28 3 10</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\src\Sensor\DS18B20\DS18B20.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 32</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 26</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 31</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 18 1 28 16 3 25 10 6 21 17</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 3 1 28 10 16 25 6 21 17 18</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\BSE01BHook\BSE01BHook.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 5</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 9</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 24</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 19 1 28 16 3 25 10 6 21 17 30 18</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 25 30 16 6 21 17 1 18 19 28 3 10</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Debug\Exe\T&amp;H.out</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 22</file>
+                </tool>
+                <tool>
+                    <name>OBJCOPY</name>
+                    <file> 13</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 8 5 32 11 33 4 2 27 29</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 23 22</file>
+                </tool>
+            </outputs>
+        </file>
+    </configuration>
+    <configuration>
+        <name>Release</name>
+        <outputs />
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>ILINK</tool>
+        </forcedrebuild>
+    </configuration>
+</project>

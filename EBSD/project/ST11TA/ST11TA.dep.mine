@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>4</fileVersion>
+    <fileChecksum>251466325</fileChecksum>
+    <configuration>
+        <name>Debug</name>
+        <outputs>
+            <file>$PROJ_DIR$\..\..\src\Sensor\DS18B20\DS18B20.h</file>
+            <file>$PROJ_DIR$\..\..\src\Sensor\DS18B20\DS18B20.c</file>
+            <file>$PROJ_DIR$\..\..\src\Driver\I2C\EB_I2C.c</file>
+            <file>$PROJ_DIR$\..\..\src\Driver\I2C\EB_I2C.h</file>
+            <file>$PROJ_DIR$\..\..\src\Sensor\LIS2DH12\lis2dh12_reg.h</file>
+            <file>$PROJ_DIR$\ST11TAType.h</file>
+            <file>$PROJ_DIR$\..\..\src\Sensor\LIS2DH12\lis2dh12_reg.c</file>
+            <file>$PROJ_DIR$\ST11TAHook\ST11TAHook.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\ST11TAHook.__cstat.et</file>
+            <file>$PROJ_DIR$\ST11TAHook\ST11TAHook.h</file>
+            <file>$PROJ_DIR$\Debug\Exe\T&amp;H.out</file>
+            <file>$PROJ_DIR$\..\..\include\MP_BASE_Type.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\ST11TAHook.o</file>
+            <file>$PROJ_DIR$\..\..\src\Sensor\LIS2DH12\LIS2DH12.c</file>
+            <file>$PROJ_DIR$\..\..\include\APP\AppConst.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\EB_I2C.__cstat.et</file>
+            <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\LIS2DH12.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\src\Sensor\LIS2DH12\LIS2DH12.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\EB_I2C.pbi</file>
+            <file>$PROJ_DIR$\..\..\include\MP_LWS_Type.h</file>
+            <file>$PROJ_DIR$\..\..\include\EBGlobal.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\LIS2DH12.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\DS18B20.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\EB_I2C.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\LIS2DH12.o</file>
+            <file>$PROJ_DIR$\Debug\Exe\T&amp;H.hex</file>
+            <file>$PROJ_DIR$\Debug\Obj\DS18B20.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\c\math.h</file>
+            <file>$PROJ_DIR$\..\..\include\MP_EB_Type.h</file>
+            <file>$PROJ_DIR$\..\..\include\APP\CrcCal.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\lis2dh12_reg.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\lis2dh12_reg.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\ST11TAHook.pbi</file>
+            <file>$PROJ_DIR$\..\..\include\MP_OS_type.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+            <file>$PROJ_DIR$\..\..\include\MP_Global.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+            <file>$PROJ_DIR$\..\..\include\MP_OS.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_float_setup.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\lis2dh12_reg.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\DS18B20.__cstat.et</file>
+        </outputs>
+        <file>
+            <name>$PROJ_DIR$\..\..\src\Sensor\DS18B20\DS18B20.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 44</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 24</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 28</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 0 21 14 11 36 20 41 30 31 38</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 11 31 30 36 20 21 14 41 38 0</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\src\Driver\I2C\EB_I2C.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 15</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 25</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 19</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 3 21 14 11 36 20 41 30 31 38</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 14 11 31 41 36 21 20 30 38 3</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\src\Sensor\LIS2DH12\lis2dh12_reg.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 34</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 43</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 32</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 4 33 16 23 37 40 39</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 33 37 23 4 16 40 39</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\ST11TAHook\ST11TAHook.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 8</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 12</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 35</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 9 21 14 11 36 20 41 30 31 38 5 3 18 0</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 41 36 18 14 5 9 38 21 3 0 11 20 30 31</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Debug\Exe\T&amp;H.out</name>
+            <outputs>
+                <tool>
+                    <name>OBJCOPY</name>
+                    <file> 27</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\src\Sensor\LIS2DH12\LIS2DH12.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 17</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 26</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 22</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 18 21 14 11 36 20 41 30 31 38 3 5 4 33 16 23 37 40 39 29 42 9</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 11 31 33 21 30 29 5 20 36 38 40 4 9 3 14 41 23 39 16 18 37 42</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 10</file>
+                </tool>
+            </outputs>
+        </file>
+    </configuration>
+    <configuration>
+        <name>Release</name>
+        <outputs />
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>ILINK</tool>
+        </forcedrebuild>
+    </configuration>
+</project>

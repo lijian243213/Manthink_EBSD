@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>4</fileVersion>
+    <fileChecksum>3443372129</fileChecksum>
+    <configuration>
+        <name>Debug</name>
+        <outputs>
+            <file>$PROJ_DIR$\BSE01BHook\BSE01BHook.c</file>
+            <file>$PROJ_DIR$\..\..\src\Sensor\DS18B20\DS18B20.c</file>
+            <file>$PROJ_DIR$\BSE01BType.h</file>
+            <file>$PROJ_DIR$\..\..\lib\EBLib.a</file>
+            <file>$PROJ_DIR$\BSE01BHook\BSE01BHook.h</file>
+            <file>$PROJ_DIR$\..\..\src\T&amp;H\SHT20\SHT20.c</file>
+            <file>$PROJ_DIR$\..\..\include\MP_OS_type.h</file>
+            <file>$PROJ_DIR$\..\..\include\MP_Global.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\BSE01BHook.pbi</file>
+            <file>$PROJ_DIR$\..\..\src\T&amp;H\DS18B20\DS18B20.c</file>
+            <file>$PROJ_DIR$\..\..\src\Sensor\DS18B20\DS18B20.h</file>
+            <file>$PROJ_DIR$\..\..\include\MP_LWS_Type.h</file>
+            <file>$PROJ_DIR$\..\..\include\MP_OS.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\DS18B20.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\BSE01BHook.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\lib\LWS429Lib.a</file>
+            <file>$PROJ_DIR$\Debug\Obj\BSE01BHook.o</file>
+            <file>$TOOLKIT_DIR$\lib\dl6M_tln.a</file>
+            <file>$PROJ_DIR$\..\..\src\T&amp;H\I2C\EB_I2C.c</file>
+            <file>$PROJ_DIR$\..\..\src\T&amp;H\MyType.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\SHT20.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\EB_I2C.pbi</file>
+            <file>$TOOLKIT_DIR$\lib\rt6M_tl.a</file>
+            <file>$PROJ_DIR$\Debug\Obj\SHT20.pbi</file>
+            <file>$PROJ_DIR$\..\..\include\MP_BASE_Type.h</file>
+            <file>$PROJ_DIR$\Debug\Exe\T&amp;H.out</file>
+            <file>$PROJ_DIR$\..\..\src\T&amp;H\I2C\EB_I2C.h</file>
+            <file>$PROJ_DIR$\..\..\src\T&amp;H\DS18B20\DS18B20.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\BSE01B.pbd</file>
+            <file>$PROJ_DIR$\Debug\Obj\DS18B20.pbi</file>
+            <file>$PROJ_DIR$\..\..\include\APP\CrcCal.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\EB_I2C.o</file>
+            <file>$PROJ_DIR$\..\..\include\APP\AppConst.h</file>
+            <file>$PROJ_DIR$\Debug\List\T&amp;H.map</file>
+            <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+            <file>$PROJ_DIR$\Debug\Obj\THHook.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\SHT20.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\THHook.pbi</file>
+            <file>$PROJ_DIR$\Debug\Exe\T&amp;H.hex</file>
+            <file>$PROJ_DIR$\..\..\include\MP_EB_Type.h</file>
+            <file>$TOOLKIT_DIR$\lib\m6M_tl.a</file>
+            <file>$PROJ_DIR$\..\..\src\T&amp;H\SHT20\SHT20.h</file>
+            <file>$PROJ_DIR$\..\..\MT_ColorBrickV1.0.icf</file>
+            <file>$PROJ_DIR$\..\..\src\T&amp;H\THHook\THHook.h</file>
+            <file>$PROJ_DIR$\..\..\include\EBGlobal.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\DS18B20.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\src\T&amp;H\THHook\THHook.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\EB_I2C.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\THHook.o</file>
+        </outputs>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 33 25</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\BSE01BHook\BSE01BHook.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 16</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 14</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 8</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 4 44 32 24 6 11 12 39 30 7 2 10</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 11 12 32 7 2 4 6 44 10 24 39 30</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\src\Sensor\DS18B20\DS18B20.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 13</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 45</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 29</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 10 44 32 24 6 11 12 39 30 7</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 6 30 44 32 12 24 11 39 7 10</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\src\T&amp;H\SHT20\SHT20.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 20</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 36</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 23</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 26 44 32 24 6 11 12 39 30 7 41 19</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 32 12 6 44 11 19 41 24 39 26 30 7</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\src\T&amp;H\DS18B20\DS18B20.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 45</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 29</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\src\T&amp;H\I2C\EB_I2C.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 31</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 47</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 21</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 26 44 32 24 6 11 12 39 30 7</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 32 24 30 12 6 44 11 39 7 26</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Debug\Exe\T&amp;H.out</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 33</file>
+                </tool>
+                <tool>
+                    <name>OBJCOPY</name>
+                    <file> 38</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 42 16 13 15 3 34 22 40 17</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\src\T&amp;H\THHook\THHook.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 48</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 35</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 37</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 43 44 32 24 6 11 12 39 30 7 19 26 41 27</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 44 41 43 6 11 19 32 12 26 27 24 39 30 7</file>
+                </tool>
+            </inputs>
+        </file>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\..\..\src\T&amp;H\DS18B20\DS18B20.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+    </configuration>
+    <configuration>
+        <name>Release</name>
+        <outputs />
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>ILINK</tool>
+        </forcedrebuild>
+    </configuration>
+</project>

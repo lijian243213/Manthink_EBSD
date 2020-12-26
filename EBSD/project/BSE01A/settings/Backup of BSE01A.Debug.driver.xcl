@@ -1,0 +1,19 @@
+"--endian=little" 
+
+"--cpu=Cortex-M0+" 
+
+"--fpu=None" 
+
+"-p" 
+
+"D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.2\arm\CONFIG\debugger\HDSC\HC32L190FCUA.ddf" 
+
+"--semihosting" 
+
+"--device=HC32L190FCUA" 
+
+"--multicore_nr_of_cores=1" 
+
+
+
+

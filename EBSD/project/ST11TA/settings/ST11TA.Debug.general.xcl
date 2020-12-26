@@ -1,0 +1,13 @@
+"D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.2\arm\bin\armproc.dll" 
+
+"D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.2\arm\bin\armjlink2.dll" 
+
+"E:\SVN2.0\RDSoftware\Module\EBSD\project\ST11TA\Debug\Exe\T&H.out" 
+
+--plugin="D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.2\arm\bin\armbat.dll" 
+
+--flash_loader="D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.2\arm\config\flashloader\HDSC\HC32L19X.board" 
+
+
+
+

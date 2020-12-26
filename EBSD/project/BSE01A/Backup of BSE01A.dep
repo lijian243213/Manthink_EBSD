@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>4</fileVersion>
+    <fileChecksum>2823648674</fileChecksum>
+    <configuration>
+        <name>Debug</name>
+        <outputs>
+            <file>$PROJ_DIR$\BSE01AHook\BSE01AHook.c</file>
+            <file>$PROJ_DIR$\BSE01AType.h</file>
+            <file>$PROJ_DIR$\Debug\Exe\T&amp;H.hex</file>
+            <file>$PROJ_DIR$\Debug\Exe\T&amp;H.out</file>
+            <file>$PROJ_DIR$\Debug\Obj\Backup of BSE01A.pbd</file>
+            <file>$PROJ_DIR$\Debug\Obj\BSE01AHook.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\BSE01AHook.pbi</file>
+        </outputs>
+        <file>
+            <name>$PROJ_DIR$\BSE01AHook\BSE01AHook.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 5</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 6</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Debug\Exe\T&amp;H.out</name>
+            <outputs>
+                <tool>
+                    <name>OBJCOPY</name>
+                    <file> 2</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 3</file>
+                </tool>
+            </outputs>
+        </file>
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>ILINK</tool>
+        </forcedrebuild>
+    </configuration>
+    <configuration>
+        <name>Release</name>
+        <outputs />
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>ILINK</tool>
+        </forcedrebuild>
+    </configuration>
+</project>
